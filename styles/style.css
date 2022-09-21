@@ -217,14 +217,14 @@
 }
 
 .feynman__link{
-  position: absolute; 
-  height: 50%;
-  right: 48px;
-  line-height: 51px;
-  font-size: 36px;
-  font-weight: mormal;
-  color:#2f80ed;
-  text-decoration: none;
+position: absolute;
+height: 50%;
+right: 48px;
+line-height: 51px;
+font-size: 36px;
+font-weight: mormal;
+color:#2f80ed;
+text-decoration: none;
 }
 
 .kaufman{
