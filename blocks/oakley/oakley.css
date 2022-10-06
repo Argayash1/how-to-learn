@@ -1,0 +1,8 @@
+.oakley{
+    display: flex;
+    justify-content: center;
+    color: #000000;
+    background-color: #f2f2f2;
+    padding-top: 160px;
+    box-sizing: border-box;
+  }

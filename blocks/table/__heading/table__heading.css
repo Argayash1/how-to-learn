@@ -1,0 +1,10 @@
+.table__heading {
+    margin-bottom: 20px;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    padding: 0;
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: 600;
+  }

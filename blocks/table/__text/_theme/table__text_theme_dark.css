@@ -1,0 +1,8 @@
+.table__text_theme_dark {
+    margin-bottom: 20px;
+    color: #ffffff;
+  }
+  
+  .table__text_theme_dark:last-child {
+    margin-bottom: 0;
+  }

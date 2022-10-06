@@ -1,0 +1,12 @@
+.header {
+    height: 100vh;
+    min-height: 600px;
+    max-height: 756px;
+    /* выше установили ограничения для секции */
+    position: relative;
+    display: flex;
+    color: #000000;
+    background-color: #f2f2f2;
+    overflow: hidden;
+  }
+  
