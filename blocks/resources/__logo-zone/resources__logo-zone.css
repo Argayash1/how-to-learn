@@ -1,4 +1,7 @@
 .resources__logo-zone{
     width: 1100px;
     margin: 80px auto 0;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
   }
